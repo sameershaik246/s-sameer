@@ -1,0 +1,90 @@
+.navbar{
+    background-color:lightseagreen;
+    height: 69px;
+    padding: 1px;
+
+}
+.navbar li{
+    list-style-type:none;
+    float: left;
+    padding: 20px;
+
+}
+.navbar ul{
+    overflow: auto;
+    padding: 10px;
+
+}
+.navbar ul li a:hover{
+    background-color: aliceblue;
+    padding: 20px;
+}
+.navbar li a{
+    text-decoration: aliceblue;
+}
+.navbar ul li a:hover{
+    color: rgb(0, 0, 0);
+
+}
+.mawa img{
+    height: 300px;
+    width: 100%;
+    direction: left;
+
+}
+h3{
+    background-color:rgb(5, 179, 247);
+    text-align: center;
+    padding: 15px;
+}
+img{
+    cursor: pointer;
+    box-shadow: 0 8px 10px 0 rgb(14, 179, 216);
+    transition: box-shadow 1s, transform 2s;
+    
+}
+.title{
+    transition: box-shadow 1s;
+
+
+}
+.title:hover{
+    box-shadow: 0 8px 10px 0;
+    transition: transform;
+}
+
+
+.pic{
+    float: left;
+    margin: 20px;
+}
+
+.title{
+    text-align: center;
+    background-color:white;
+    color: rgb(12, 58, 197);
+}
+img:hover{
+    transform: scale(1.1);
+}
+
+.they{
+    margin: 20px;
+    height: 80%;
+    width: 80%;
+    
+}
+h1{
+
+    background-color: rgb(30, 209, 209);
+    padding: 15px;
+    text-align: center;
+}
+.hai{
+    text-align: left;
+    border-radius: 50%;
+}
+.container{
+    padding-left: 80px;
+}
+
